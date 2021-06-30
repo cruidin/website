@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@600&family=Roboto&display=swap');
 
 * {
   margin: 5px;
@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Big Shoulders Stencil Display', cursive;
-  background: #DEF4EA;
+  background: #ffffff;
   color: #C03A1D;
   line-height: 1.5;
   font-size: 0.875rem;
@@ -15,9 +15,14 @@ body {
 
 h1 {
   font-weight: bold;
+  font-size: 400%;
 }
 
 img {
   max-width: 100%;
   height: auto;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
 }
