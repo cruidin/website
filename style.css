@@ -25,9 +25,17 @@ img {
 
 p {
   font-family: 'Roboto', sans-serif;
+  color: #5A2525;
 }
 
 a {
   color: #5A2525;
   font-family: 'Roboto', sans-serif;
+}
+
+a, h1 {
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  background: #ffffff;
+  color: #C03A1D;
+  text-decoration: none;
 }
